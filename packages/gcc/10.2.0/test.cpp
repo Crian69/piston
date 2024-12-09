@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(void) {
-    printf("OK");
+    printf("OK Test");
     return 0;
 }
